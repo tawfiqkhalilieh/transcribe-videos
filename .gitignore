@@ -3,4 +3,6 @@ personal/
 visual/
 audio-visual/
 audio-personal/
-data.json
+*.json/
+youtube-audio/
+
